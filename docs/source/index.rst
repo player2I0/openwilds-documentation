@@ -1,5 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to the OpenWilds documentation
 ===================================
+
+**OpenWilds** is a custom-made server for `Wilds.io <https://wilds.io/>`_ written in Python using websocket.
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -20,5 +22,3 @@ Contents
 
    usage
    api
-Lumache has its documentation hosted on Read the Docs.
-
